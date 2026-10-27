@@ -1,5 +1,9 @@
 # AnchorVision: 4D Spatial Memory and UWB-Anchored SLAM for Construction
 
+## Demo
+
+[![Watch the AnchorVision demo on YouTube](https://img.youtube.com/vi/OHN8Hf2F6WQ/maxresdefault.jpg)](https://youtu.be/OHN8Hf2F6WQ)
+
 ## Judge TL;DR
 
 AnchorVision is a cross-platform system that transforms mobile video scans into a **globally anchored, queryable 4D construction memory**.
